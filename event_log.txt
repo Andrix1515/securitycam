@@ -1,0 +1,6 @@
+[2025-10-27 15:41:23] [AUDIO] [palabra_clave] [ALTA] - Texto: 'Fernando ahorita ayuda' | Nivel: 32.8 dB
+[2025-10-27 15:41:34] [AUDIO] [palabra_clave] [ALTA] - Texto: 'ayuda' | Nivel: 31.1 dB
+[2025-10-27 15:42:25] [AUDIO] [sonido_fuerte] [BAJA] - Texto: 'N/A' | Nivel: 33.3 dB
+[2025-10-27 15:42:32] [AUDIO] [sonido_fuerte] [BAJA] - Texto: 'N/A' | Nivel: 31.5 dB
+[2025-10-27 15:42:40] [AUDIO] [grito] [MEDIA] - Texto: 'micrófono y un algo para' | Nivel: 32.7 dB
+[2025-10-27 15:42:43] [AUDIO] [sonido_fuerte] [BAJA] - Texto: 'N/A' | Nivel: 32.5 dB
